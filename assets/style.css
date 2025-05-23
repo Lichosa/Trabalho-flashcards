@@ -1,0 +1,18 @@
+body {
+    background-color: cornflowerblue;
+    font-family: WDXL Lubrifont TC
+;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 1rem;
+}
