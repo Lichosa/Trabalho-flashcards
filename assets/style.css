@@ -8,6 +8,9 @@
 body {
     background: url(img/pixel-art-5-1.webp);
     font-family: WDXL Lubrifont TC;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover; 
 }
 
 #container {
